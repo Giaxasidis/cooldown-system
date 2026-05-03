@@ -5,7 +5,7 @@
 [![Java](https://img.shields.io/badge/Java-17-339933?logo=java&logoColor=white)]()
 [![Maven](https://img.shields.io/badge/Maven-3.9%2B-C71A36?logo=apachemaven&logoColor=white)]()
 
-Lightweight cooldown management library for Minecraft Spigot/Paper plugins. Provides annotation-based, programmatic, and persistent cooldown systems with automatic cleanup and zero dependencies.
+Lightweight cooldown management library for Minecraft Spigot/Paper plugins. Provides annotation-based, programmatic, and persistent cooldown systems with automatic cleanup, zero dependencies, and key flexibility.
 
 ## Features
 
