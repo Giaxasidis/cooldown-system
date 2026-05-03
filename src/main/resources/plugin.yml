@@ -1,0 +1,6 @@
+﻿name: CooldownSystem
+version: 1.0.0
+main: com.kaloudasdev.cooldown.CooldownAPI
+api-version: 1.16
+author: KaloudasDev
+description: Lightweight cooldown management library for Spigot/Paper plugins
