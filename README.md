@@ -1,4 +1,4 @@
-﻿# Cooldown System for Spigot/Paper
+#﻿# Cooldown System for Spigot/Paper
 
 [![Minecraft API](https://img.shields.io/badge/Minecraft-1.16.5--1.21-5f9ea0?logo=spigotmc&logoColor=white)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
