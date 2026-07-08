@@ -1,4 +1,4 @@
-﻿package com.kaloudasdev.cooldown;
+﻿package com.giaxasidis.cooldown;
 
 import java.util.Map;
 import java.util.UUID;
